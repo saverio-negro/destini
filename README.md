@@ -1,6 +1,6 @@
 # Destini
 
-<img src="./Quizzler-iOS13/Assets.xcassets/AppIcon.appiconset/1024.png" width="25%" height="25%"/>
+<img src="./Destini-iOS13/Assets.xcassets/AppIcon.appiconset/Icon.png" width="25%" height="25%"/>
 
 ### Get hold of your destiny with the "Destini" App, and decide what story path to follow.
 
