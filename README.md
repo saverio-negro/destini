@@ -4,7 +4,7 @@
 
 ### Get hold of your destiny with the "Destini" App, and decide what story path to follow.
 
-### "Destini" is a little storytelling app. You get to follow a story path depending on which answer you choose.
+### Destini is a little storytelling app. You get to follow a story path depending on which answer you choose.
 
 <img src="./images/quizzler.gif" width="25%" height="25%"/>
 
